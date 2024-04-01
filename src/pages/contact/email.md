@@ -1,5 +1,5 @@
 ---
 title: Email
 icon: carbon:email
-url: mailto:juz@hoper.ph
+url: https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRspplQTXhHNFNGNJpsVrBRbwLfSJMWlFKdSBdlGbCWzSsSNQTnkjNMxfDPrlllglkJtncV
 ---

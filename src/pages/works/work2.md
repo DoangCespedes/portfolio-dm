@@ -1,10 +1,16 @@
 ---
 title: Freelance developer
-date: 09/1998 - Present
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Heat Innovation
-tags: ["Cobol", "develop", "C++", "frontend", "backend", "wireshark"]
+date: 09/2020 - Present
+url: https://autohailrepairlujancar.com
+url2: https://blue-waves-cars.netlify.app
+location: Remoto 
+tags: ["ReactJs", "React Native", "NextJs", "NodeJs", "DB", "Git | Github ,Gitlab "]
+org: autohailrepairlujancar
+org2: blue-waves-cars
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+He realizado diferentes trabajos para distintos clientes, abarcando un stack completo desde la creacion de una API-REST hasta la estructuracion, maquetacion y muestra de archivos, utilizando diferentes tecnologias .
+
+* Tecnologias utilizadas: Javascript (ReactJs, React Native, NextJs, NodeJs, TypeScript, Testing library, Jest) , Git | Github ,Gitlab , MySQL, MongoDB, PostgreSQL, Strapy, Postman, entre otras.
+
+Dejo referencia de mis dos proyectos mas recientes en el mercado.
